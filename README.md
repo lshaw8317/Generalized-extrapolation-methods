@@ -1,7 +1,7 @@
 # Linear-combinations-of-composition-methods
 Coefficients for the article "Linear combinations of composition methods".
 
-The file `loader.py´ loads all coefficients into named variables and prints one of the sets of coefficents. Comments explain the corresponding integrators and figures in the paper. One may print the coefficients via editing the last code snippet
+The file `loader.py´ loads all coefficients into named variables and prints one of the sets of coefficents. Comments explain the corresponding integrators and figures in the paper. One may print the coefficients via editing the last code snippet at the end of `loader.py`
 
 ```python
 print('Coefficents for Fig. 4, 5-stage integrator')
