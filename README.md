@@ -1,5 +1,5 @@
-# Linear-combinations-of-composition-methods
-Coefficients for the article "Linear combinations of composition methods".
+# Generalized extrapolation methods based on compositions of a basic 2nd-order scheme
+Coefficients for the article "Generalized extrapolation methods based on compositions of a basic 2nd-order scheme".
 
 The file `loader.py` loads all coefficients into named variables and prints one of the sets of coefficents. Comments explain the corresponding integrators and figures in the paper. One may print the coefficients via editing the last code snippet at the end of `loader.py`
 
